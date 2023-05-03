@@ -8,7 +8,7 @@ By including this PsrLogAwareTrait, you can allow composer to resolve your PsrLo
 
 Require the trait. 
 
-        composer require chromatic/psr-log-aware-trait
+        composer require mpdf/psr-log-aware-trait
 
 
 In your code, you no longer have to set a $logger property on your classes, since that comes with the trait, and you do not need to implement the `function setLogger()` method, since that also comes along with the trait. 
