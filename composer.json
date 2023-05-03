@@ -1,5 +1,5 @@
 {
-    "name": "chromatic/psr-log-aware-trait",
+    "name": "mpdf/psr-log-aware-trait",
     "description": "Trait to allow support of different psr/log versions.",
     "type": "library",
     "require": {
