@@ -1,6 +1,6 @@
 <?php
 
-namespace Chromatic\PsrLogAwareTrait;
+namespace Mpdf\PsrLogAwareTrait;
 
 use Psr\Log\LoggerInterface;
 
